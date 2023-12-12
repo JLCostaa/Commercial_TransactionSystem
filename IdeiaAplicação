@@ -1,0 +1,23 @@
+# Proposta:
+A aplicação proposta simula um sistema de comércio eletrônico e tem como objetivo principal a análise comparativa do desempenho entre a utilização de algoritmos de ordenação tradicionais e uma estrutura de dados específica como a  árvore binária de busca . 
+
+
+# Geração de Dados Aleatórios:
+Para simular vários de pedidos em um sistema de comércio eletrônico, são gerados pedidos aleatórios com identificadores únicos e valores totais variados. Isso representa a entrada de dados no sistema.
+
+
+# Ordenação com Árvore Binária de Busca:
+Os pedidos são inseridos na árvore binária de busca de acordo com seus valores totais. Essa inserção mantém os pedidos ordenados na árvore.
+
+
+# Ordenação com Algoritmos Tradicionais:
+além disso implemntamos os Algoritmos de ordenação clássicos, como Bubble Sort, Selection Sort, Insertion Sort e Quick Sort, são utilizados para ordenar a lista de pedidos.
+Cada algoritmo é escolhido com base no tamanho da lista de pedidos, refletindo a consideração prática de escolher algoritmos eficientes para diferentes tamanhos de dados.
+
+
+# Desempenho:
+Fazer a comparação  do tempo gasto na ordenação usando a árvore binária de busca e com o tempo gasto nos algoritmos de ordenação tradicionais.
+
+
+# Sobre a  Aplicação:
+Buscamos compreender a eficiência de diferentes abordagens na ordenação e recuperação de dados em um contexto prático. Além disso, destaca a importância de escolher a estratégia certa com base nas características únicas dos conjuntos de dados e nos requisitos de desempenho do sistema.
